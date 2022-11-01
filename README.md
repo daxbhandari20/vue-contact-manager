@@ -1,6 +1,6 @@
 # vue-contact-manager
 
-## Project setup
+## FrontEnd Project setup
 ```
 npm install
 ```
@@ -18,6 +18,17 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+## BackEnd Project setup
+```
+Change directory to server using this code :- cd server
+
+npm install
+```
+
+### Start BackEnd Server
+```
+npm start
 ```
 
 ### Customize configuration
