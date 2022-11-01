@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-## BackEnd Project setup
+## BackEnd Server setup
 ```
 Change directory to server using this code :- cd server
 
