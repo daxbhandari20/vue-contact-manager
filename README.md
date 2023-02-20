@@ -26,6 +26,11 @@ Change directory to server using this code :- cd server
 npm install
 ```
 
+### Change directory for start server
+```
+cd server
+```
+
 ### Start BackEnd Server
 ```
 npm start
